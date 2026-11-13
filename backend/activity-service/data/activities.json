@@ -1,0 +1,30 @@
+[
+  {
+    "id": "103be1cc-1992-4f99-820d-0188641110a4",
+    "taskId": "e4cc6678-cb77-4a71-b05f-a0c6853a8701",
+    "action": "created",
+    "description": "Pengujian pencatatan aktivitas",
+    "createdAt": "2026-11-04T18:25:27.562Z"
+  },
+  {
+    "id": "dafc656e-b0b9-4a48-a171-4dc3ee3abaa9",
+    "taskId": "a46d588a-7523-4dd0-9f47-d93f4e1a906f",
+    "action": "created",
+    "description": "Tugas \"Tes Integrasi Berhasil\" dibuat",
+    "createdAt": "2026-11-05T14:33:13.640Z"
+  },
+  {
+    "id": "9c78c3d8-c7f3-46e9-9f4f-05e7e1403609",
+    "taskId": "a46d588a-7523-4dd0-9f47-d93f4e1a906f",
+    "action": "updated",
+    "description": "Status tugas \"Tes Integrasi Berhasil\" diubah menjadi selesai",
+    "createdAt": "2026-11-05T14:37:46.952Z"
+  },
+  {
+    "id": "927a526f-8287-46a4-98a3-e292fc9dae3b",
+    "taskId": "a46d588a-7523-4dd0-9f47-d93f4e1a906f",
+    "action": "deleted",
+    "description": "Tugas \"Tes Integrasi Berhasil\" dihapus",
+    "createdAt": "2026-11-05T14:57:15.709Z"
+  }
+]

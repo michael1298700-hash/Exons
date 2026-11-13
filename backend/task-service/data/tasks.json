@@ -1,0 +1,46 @@
+[
+  {
+    "id": "e4cc6678-cb77-4a71-b05f-a0c6853a8701",
+    "title": "Belajar Microservices",
+    "description": "Mengerjakan proyek UTS",
+    "completed": true,
+    "createdAt": "2026-11-03T18:05:40.357Z",
+    "updatedAt": "2026-11-03T18:12:58.694Z"
+  },
+  {
+    "id": "8460945c-a555-4421-aabc-ee9ba7c74ec4",
+    "title": "Pengujian Microservices",
+    "description": "Menguji endpoint POST",
+    "completed": true,
+    "createdAt": "2026-11-04T13:20:51.104Z",
+    "updatedAt": "2026-11-04T13:21:36.515Z"
+  },
+  {
+    "id": "c34e3553-2fe1-43b2-a2ab-b2cdff90d22a",
+    "title": "Tes Integrasi Microservices",
+    "description": "Menguji komunikasi Task dan Activity Service",
+    "completed": false,
+    "createdAt": "2026-11-04T19:36:58.549Z"
+  },
+  {
+    "id": "8232af8a-cb95-477b-91a2-923438ca742b",
+    "title": "Tes Integrasi Microservices",
+    "description": "Menguji komunikasi Task dan Activity Service",
+    "completed": false,
+    "createdAt": "2026-11-05T07:19:00.956Z"
+  },
+  {
+    "id": "a1259cae-324d-46f3-b75c-c536dfbe5cbc",
+    "title": "Tes Integrasi Microservices",
+    "description": "Menguji komunikasi Task dan Activity Service",
+    "completed": false,
+    "createdAt": "2026-11-05T07:19:59.551Z"
+  },
+  {
+    "id": "ad906df9-f5fb-4770-8bed-ac1dd59eefe4",
+    "title": "Tes Integrasi Microservices Kedua",
+    "description": "Menguji pencatatan aktivitas otomatis",
+    "completed": false,
+    "createdAt": "2026-11-05T08:20:33.948Z"
+  }
+]
