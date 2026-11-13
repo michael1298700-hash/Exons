@@ -3,6 +3,6 @@ Aplikasi manajemen tugas (Task Management) berbasis web yang dibangun menggunaka
 
 👥 Anggota Kelompok
 
-[ Jasmine Tanziro ] - Frontend Developer
+[ Jasmine Tanziro ] - Frontend Developer <br>
 [ Shawn Michael ] - Backend Developer
 [ Michael] - DevOps Engineer
